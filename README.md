@@ -1,0 +1,1 @@
+# altium_schematic_part_generator
